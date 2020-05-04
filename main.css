@@ -250,7 +250,7 @@
       fill: #ffffff;
     }
     }
-    @media (max-width:1099px) and (min-width:800px) {
+    @media screen and (max-width:1099px) and (min-width:812px) {
          *{
         padding: 0;
         margin: 0;
@@ -499,7 +499,7 @@
       }
     }
 
-    @media screen and (max-width:800px){
+    @media screen and (max-width:812px){
         *{
        padding: 0;
        margin: 0;
